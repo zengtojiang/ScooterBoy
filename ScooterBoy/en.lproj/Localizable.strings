@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ScooterBoy
+
+  Created by libs on 14-4-23.
+  Copyright (c) 2014年 icow. All rights reserved.
+*/
+
+"Please login game center first"="Please go to Game Center to set your account first.";
+"OK"="OK";
+"New Task"="New Task";
+"Cancel"="Cancel";
+"Accept"="Accept";
+"Home"="Home";
+"School"="School";
+"Hospital"="Hospital";
+"Store"="Store";

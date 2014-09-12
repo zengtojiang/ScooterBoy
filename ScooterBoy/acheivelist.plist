@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>stone</key>
+		<integer>5</integer>
+		<key>acheive</key>
+		<string>小星星</string>
+	</dict>
+	<dict>
+		<key>stone</key>
+		<integer>200</integer>
+		<key>acheive</key>
+		<string>积极向上</string>
+	</dict>
+	<dict>
+		<key>stone</key>
+		<integer>500</integer>
+		<key>acheive</key>
+		<string>健康聪明</string>
+	</dict>
+	<dict>
+		<key>stone</key>
+		<integer>1000</integer>
+		<key>acheive</key>
+		<string>敏而好学</string>
+	</dict>
+	<dict>
+		<key>stone</key>
+		<integer>1200</integer>
+		<key>acheive</key>
+		<string>未来之星</string>
+	</dict>
+	<dict>
+		<key>stone</key>
+		<integer>1500</integer>
+		<key>acheive</key>
+		<string>滑板王子</string>
+	</dict>
+</array>
+</plist>

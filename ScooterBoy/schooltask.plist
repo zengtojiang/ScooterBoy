@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>上学去</string>
+	<string>和同学打乒乓球</string>
+	<string>听老师讲课</string>
+	<string>帮助困难的同学</string>
+	<string>打扫学校卫生</string>
+	<string>擦黑板</string>
+	<string>送打球受伤的同学去医务室</string>
+	<string>学唱歌</string>
+	<string>学画画</string>
+	<string>听老师讲故事</string>
+	<string>和同学做游戏</string>
+</array>
+</plist>
